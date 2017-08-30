@@ -1,5 +1,6 @@
 ## Test Webpack Bundler
-Simple project to test & play around with webpack.
+Simple project to test & play around with webpack.  
+
 ![Preview..](doc/preview.png)
 
 ## Reference
