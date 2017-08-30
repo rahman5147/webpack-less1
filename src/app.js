@@ -1,1 +1,2 @@
-alert('hello world')
+$ = require('jquery')
+$('body').css('color', 'red')
