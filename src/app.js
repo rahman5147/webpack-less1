@@ -1,3 +1,4 @@
-require('../src/style.css')
-$ = require('jquery')
+import $ from 'jquery'
+import './style.css'
 $('body').css('color', 'red')
+
